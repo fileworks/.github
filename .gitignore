@@ -1,0 +1,9 @@
+CLAUDE.local.md
+AGENTS.override.md
+.claude/settings.local.json
+.claude/RESUME.md
+.codex-log/
+.agent-context-state.json
+.agent-context-backups/
+.agent-context.lock
+__pycache__/
