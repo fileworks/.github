@@ -10,13 +10,9 @@ portable folders. Review the planned changes and keep independent backups.
 
 MediaSorter installers bundle their runtime and media tools. See its installation
 guide for platforms, checksums and the current signing status. UnpackSort source
-installation requires Python 3.12+, Git and pipx; no GitHub account is needed:
-
-```console
-pipx install git+https://github.com/fileworks/unpacksort.git@v1.0.0
-unpacksort --version
-unpacksort --help
-```
+installation requires Python 3.12+, Git and pipx; no GitHub account is needed.
+Follow its linked installation guide to choose a stable source tag and verify
+the installed version.
 
 Public source access and prebuilt CLI download access are separate. The product
 READMEs explain the supported routes and any authentication requirements.
